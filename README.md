@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Pavan 👋
+[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&width=450&lines=Hi+there%2C+I'm+Sai+Pavan](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=39FF14&width=450&lines=Hi+there%2C+I'm+Sai+Pavan)+👋;Software+Developer+🚀
 
 ### 🚀 Software Developer | Web & Application Developer
 
