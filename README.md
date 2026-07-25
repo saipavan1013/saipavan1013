@@ -37,15 +37,6 @@ An enthusiastic software developer dedicated to building clean, scalable, and ef
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave&count_private=true" alt="Your GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=synthwave" alt="GitHub Streak" height="180" />
-</p>
-
----
-
 ## 🎯 What I Do
 * 🌐 **Full-Stack Development:** Building robust APIs using **.NET Web API** and **Node.js**, paired with interactive frontends in **Angular** or **React**.
 * 🏛️ **Architecture & Design:** Crafting clean, maintainable, and well-structured codebases.
